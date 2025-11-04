@@ -1,0 +1,14 @@
+{
+  "person": [
+    {
+      "id": "1",
+      "name": "Farhan",
+      "email": "han@gmail.com"
+    },
+    {
+      "id": "234a",
+      "name": "Farhan Ansyah",
+      "email": "admin@gmail.com"
+    }
+  ]
+}
